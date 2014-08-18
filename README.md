@@ -1,0 +1,3 @@
+LocalProjects
+=============
+Simple website project
