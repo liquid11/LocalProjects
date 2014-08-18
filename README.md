@@ -1,3 +1,3 @@
 LocalProjects
 =============
-Simple website project
+<h1>Simple website project</h1>
